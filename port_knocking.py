@@ -4,8 +4,8 @@ import os
 import sys
 
 # ================= 配置区域 =================
-SERVER_IP = "*.*.*.*"
-KNOCK_PORTS = [*,*,*,*]
+SERVER_IP = "10.25.56.8"
+KNOCK_PORTS = [666,777,888]
 SSH_USER = "root"
 SSH_PORT = 22
 # ===========================================
